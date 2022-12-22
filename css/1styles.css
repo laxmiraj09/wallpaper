@@ -1,0 +1,91 @@
+
+/* navbar */
+.nav-link {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+/* Title section */
+#title-section {
+  background-color: #BCCEF8;
+}
+
+.robot-image {
+  height: 120%;
+  width: 40%;
+  position: absolute;
+  left: 160px;
+  top: 3px;
+  margin-bottom: 35%;
+}
+
+h1, h2 {
+  font-family: 'Alegreya', serif;
+}
+
+.container {
+  padding: 7% 15%;
+}
+
+.heading {
+  font-size: 4rem;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.h2-heading {
+  text-align: center;
+  padding: 5%;
+}
+
+h4 {
+  text-align: center;
+}
+
+/* Link text */
+.container-text {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  background-color: #fff;
+  width: 60%;
+}
+
+/* Features section */
+#features {
+  background-color: #BCCEF8;
+}
+
+.card-deck {
+  padding: 5% 5%;
+}
+
+.landscape-image {
+  align: center;
+  width: 97%;
+}
+
+/* buttons area */
+#button-area {
+  padding: 3% 22%;
+  background-color: #BCCEF8;
+}
+
+/* Horizontal rule */
+.horizontal-rule {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  size: 40px;
+}
+
+/* download button */
+.container-download {
+  text-align: center;
+  padding: 2% 10%;
+  background-color: #AFB4FF;
+}
